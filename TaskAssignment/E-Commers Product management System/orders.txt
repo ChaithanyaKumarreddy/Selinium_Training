@@ -1,0 +1,75 @@
+Customer: Ananya Reddy
+Product: Electronic - Samsung Galaxy
+Product: Clothing - Nike Tee
+Total: ?36298.0
+
+Customer: Chaithanya Reddy
+Product: Electronic - Samsung Galaxy
+Product: Clothing - Tones
+Total: ?36298.0
+
+Customer: Chaithanya Reddy
+Product: Electronic - Samsung Galaxy
+Product: Clothing - Tones
+Total: ?36298.0
+
+Customer: Chaithanya Reddy
+Product: Electronic - Samsung Galaxy
+Product: Clothing - Tones
+Total: ?36298.0
+
+Customer: Chaithanya Reddy
+Product: Electronic - Samsung Galaxy
+Product: Clothing - Tones
+Total: ?36298.0
+
+Customer: Chaithanya Reddy
+Product: Electronic - Samsung Galaxy
+Product: Clothing - Tones
+Total: ?36298.0
+
+Customer: Chaithanya Reddy
+Product: Electronic - Samsung Galaxy
+Product: Clothing - Tones
+Total: ?36298.0
+
+Customer: Chaithanya Reddy
+Product: Electronic - Samsung Galaxy
+Product: Clothing - Tones
+Total: ?36298.0
+
+Customer: Chaithanya Reddy
+Product: Electronic - Samsung Galaxy
+Product: Clothing - Tones
+Total: ?36298.0
+
+Customer: Chaithanya Reddy
+Product: Electronic - Samsung Galaxy
+Product: Clothing - Tones
+Total: ?36298.0
+
+Customer: Chaithanya Reddy
+Product: Electronic - Samsung Galaxy
+Product: Clothing - Tones
+Total: ?36298.0
+
+Customer: Chaithanya Reddy
+Product: Electronic - Samsung Galaxy
+Product: Clothing - Tones
+Total: ?36298.0
+
+Customer: Chaithanya Reddy
+Product: Electronic - Samsung Galaxy
+Product: Clothing - Tones
+Total: ?36298.0
+
+Customer: Chaithanya Reddy
+Product: Clothing - allensolly
+Product: Clothing - Tones
+Total: ?2298.0
+
+Customer: Chaithanya Reddy
+Product: Clothing - allensolly
+Product: Clothing - Tones
+Total: ?2298.0
+
